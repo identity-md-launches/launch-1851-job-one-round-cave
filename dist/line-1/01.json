@@ -1,0 +1,30 @@
+{
+  "name": "The Broken Trail",
+  "image": "https://api.imd.fun/artifacts/d289548db45173fa79aa7dfbc30f56e1652b0e0e93d565d081e496ad62792c49",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 1"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Endpoint Sentry"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe tests three trails and notices the one that stops short."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Diagnose public HTTP endpoint failures"
+    }
+  ]
+}
