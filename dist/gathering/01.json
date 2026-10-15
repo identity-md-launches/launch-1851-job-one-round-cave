@@ -1,0 +1,30 @@
+{
+  "name": "The Joined Trails",
+  "image": "https://api.imd.fun/artifacts/d17d8d3d59ef990bdad49361e39324734395a0017040d513c3128b26f4b05d03",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Import Drift"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe joins four separate trails into a loop that every worker can follow."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Gathering"
+    }
+  ]
+}

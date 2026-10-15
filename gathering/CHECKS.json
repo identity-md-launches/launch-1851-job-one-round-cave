@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-15",
+  "offline_tests": {
+    "endpoint_sentry": 12,
+    "csv_reconcile": 16,
+    "import_drift": 6,
+    "all_passed": true
+  },
+  "live_probe": {
+    "url": "https://api.imd.fun/launches",
+    "method": "GET",
+    "http_status": 200,
+    "json_pointer": "/launches/0/status",
+    "passed": true
+  },
+  "wall": {
+    "path": "artifacts/gathering/wall.png",
+    "format": "PNG",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "d17d8d3d59ef990bdad49361e39324734395a0017040d513c3128b26f4b05d03",
+    "chunk_crcs_pass": true
+  },
+  "thumbnail": {
+    "path": "dist/gathering/01.jpg",
+    "format": "JPEG",
+    "width": 512,
+    "height": 512,
+    "bytes": 63156
+  },
+  "placeholder_records": 100,
+  "total_records": 105,
+  "embedded_gallery_previews": 5,
+  "gallery_bytes": 67054,
+  "new_file_size_limit_pass": true,
+  "line_sources_unchanged": true,
+  "unmet_visual_requirements_observed": [],
+  "known_inherited_issues": [
+    "Line 3 module/package collision",
+    "Line 4 ABI integer coercion, aliases, signed return validation and Keccak padding boundary",
+    "Pre-existing dist/line-4/01.jpg exceeds 100 KB"
+  ]
+}

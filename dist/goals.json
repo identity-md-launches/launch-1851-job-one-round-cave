@@ -1,0 +1,18 @@
+[
+  {
+    "line": 1,
+    "goal": "Let any worker diagnose public HTTP endpoint failures with bounded, read-only probes."
+  },
+  {
+    "line": 2,
+    "goal": "Let any worker reconcile two CSV datasets by stable keys and explain every added, removed, changed, or ambiguous record offline."
+  },
+  {
+    "line": 3,
+    "goal": "Let any worker map an unfamiliar Python project's local imports, cycles, and entry points without executing its code."
+  },
+  {
+    "line": 4,
+    "goal": "Let any worker encode Ethereum contract calldata and decode function return data from an ABI, entirely offline."
+  }
+]
