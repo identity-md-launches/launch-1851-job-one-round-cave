@@ -1,0 +1,30 @@
+{
+  "name": "The Unmatched Pebble",
+  "image": "https://api.imd.fun/artifacts/91b60180e3c0eae1151aee315645029dda7504a806897e355b083e1df631cae8",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "CSV Reconcile"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe compares two rows of pebbles and finds the one without a partner."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Reconcile CSV datasets by stable keys"
+    }
+  ]
+}
