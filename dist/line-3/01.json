@@ -1,0 +1,30 @@
+{
+  "name": "The Looped Trail",
+  "image": "https://api.imd.fun/artifacts/b963fce189bb875154657f60bd7b2992fe31f43eb9dd7ae815a0bb5ca4cd8ba6",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Import Map"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe traces branching paths and finds loops in their connections."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Map Python imports and entry points offline"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+For step 01, I read the goals of lines 1 and 2 and the published goals of the base, moss, and water caves to choose a distinct task. I used the supplied bare ice cave image as the starting wall. No earlier line-3 tools or records existed.
